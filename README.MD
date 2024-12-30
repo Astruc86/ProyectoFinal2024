@@ -11,4 +11,4 @@ Formspree: Gestión de los envíos de formularios
 📦 Instalación Sigue estos pasos para configurar el proyecto localmente:
 
 Clona este repositorio: 
-1.git clone https://github.com/usuario/proyecto.git
+1.git clone https://github.com/Astruc86/ProyectoFinal2024.git
